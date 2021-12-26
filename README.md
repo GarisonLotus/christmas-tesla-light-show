@@ -6,6 +6,8 @@
 
 Song from Candelight Reflections, Tokyo Disneysea. Modified from 5 minutes down to just over 2 minutes to not hit memory limits on the car.
 
+###
+Sample video show: https://youtu.be/7z8gpYP6hrE
 
 
 ## Running this custom show on a vehicle
